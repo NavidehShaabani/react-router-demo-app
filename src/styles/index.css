@@ -1,0 +1,20 @@
+a {
+  text-decoration: none;
+  color: #555;
+  margin: 12px;
+}
+
+a.active {
+  color: #1976d2;
+  font-weight: bold;
+  border-bottom: 2px solid #1976d2;
+}
+div {
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+button {
+  background-color: rgb(178, 178, 192);
+  padding: 7px;
+}
